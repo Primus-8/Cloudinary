@@ -1,0 +1,8 @@
+{
+  "name": "my-backend-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^2.1.1",
+    "cloudinary": "^2.4.0"
+  }
+}
